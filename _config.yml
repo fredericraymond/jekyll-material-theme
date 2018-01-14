@@ -1,13 +1,13 @@
-title: Your awesome title
-name: Your Name
+title: Le laboratoire de Frédéric Raymond
+name: Frédéric Raymond
 email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+description: Ceci est le site we de Frédéric Raymond
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
+project_one: "Communautés microbiennes"
+project_one_description: Comprendre l'effet du microbiom humain sur la santé.
 project_one_url: https://github.com/jameshamann/jekyll-material-theme
 project_one_icon: location_on
 
